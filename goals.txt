@@ -1,0 +1,14 @@
+--main:
+    create profile page,posts/follower/followings 
+    hundle hader (logged in/out)
+    hundle private,public routes,
+    create,delete,edit posts(summaries)
+    summaries/home page + search + posts...
+
+
+--chat:
+    create contact list settings 
+    create chat page 
+
+
+-- responsivity
